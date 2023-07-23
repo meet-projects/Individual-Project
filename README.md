@@ -26,7 +26,7 @@ Final Outcome:
 
 
 ### Bonus:
-- Deployed on Heroku
+- API
 
 ### Should be submitted with: 
 - Storyboard & Wireframe *(if any)*
