@@ -22,7 +22,7 @@ Final Outcome:
 - At least 3 HTML pages - Focus on User Interactivity/Friendliness 
 - Uses Flask (Routing & Forms)
 - Authentication (Signin & Signup)
-- Databases implemented. (Try to use CRUD)
+- Databases implemented. (2 functions of CRUD)
 
 
 ### Bonus:
