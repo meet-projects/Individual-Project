@@ -67,7 +67,7 @@ This is your chance to show us what you’re passionate about using CS only, you
 
 ## Building/Workflow:
 1. Brainstorming
-2. Writing down your plan *(must)*, Storyboarding & Wireframing *(optional)* + Choosing a color scheme *(optional)*
+2. Writing down your plan, Storyboarding & Wireframing *(optional)* + Choosing a color scheme *(optional)*
 3. Implementation (Coding + building everything together)
   
 
